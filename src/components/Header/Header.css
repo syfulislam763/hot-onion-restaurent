@@ -1,0 +1,90 @@
+.header {
+    width: 90%;
+    margin: 0 auto;
+}
+
+img {
+    height: 30px;
+    width: 150px;
+}
+
+.logo-part {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.logo-img {
+    width: 50%;
+    float: left;
+    margin-left: 30px;
+}
+
+.login-area {
+    text-align: right;
+    width: 50%;
+    margin-right: 30px;
+}
+
+.login-area a {
+    text-decoration: none;
+    padding: 5px 10px;
+    color: gray;
+}
+
+.login-area a:hover {
+    background-color: lightcoral;
+    color: #fff;
+    border-radius: 30px;
+}
+
+.banner-part {
+    background-image: url("../../img/bannerbackgroundimg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 550px;
+}
+
+.div2 {
+    margin-top: 10%;
+    margin-left: 30%;
+}
+
+.div2 h1 {
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.div2 input[type='text'] {
+    padding: 10px;
+    width: 30%;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    margin-left: 50px;
+}
+
+.div2 input[type='submit'] {
+    padding: 10px;
+    width: 10%;
+    border-radius: 20px;
+    border: 1px solid lightcoral;
+    background-color: lightcoral;
+}
+
+nav {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: gray;
+    padding: 10px;
+}
+
+nav a:active {
+    color: lightcoral;
+    border-bottom: 2px solid lightcoral;
+}
