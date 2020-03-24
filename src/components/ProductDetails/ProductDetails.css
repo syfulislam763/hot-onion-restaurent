@@ -1,0 +1,59 @@
+.details {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-content {
+    width: 40%;
+    float: left;
+    text-align: justify;
+    padding: 30px;
+}
+
+.text-content h1 {
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.image {
+    width: 40%;
+    float: right;
+    padding: 30px;
+    margin-left: 30px;
+}
+
+.image img {
+    height: 350px;
+    width: 350px;
+}
+
+.Add-button {
+    background-color: crimson;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: 1px solid crimson;
+    color: #fff;
+    margin-top: 30px;
+}
+
+.count {
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px solid gray;
+    display: inline;
+    border-radius: 20px;
+}
+
+button {
+    height: px;
+    width: px;
+    border-radius: 1px;
+    border: 1px solid white;
+    margin-top: 20px;
+    background-color: white;
+}
+
+span {
+    margin: 10px;
+}

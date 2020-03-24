@@ -1,17 +1,16 @@
 import React from 'react';
-import './BreakfastFood.css';
 import { Link } from 'react-router-dom';
 
-const BreakfastFood = (props) => {
-    const { img, foodName, description, price, id } = props.product;
+const LunchFood = (props) => {
+    const { img, foodName, description, price, id } = props.lunchfood;
     return ( 
         <div className = "breakfast">
-            <div className = "breakfast-item" >
-                <Link style={{textDecoration:'none',color:'gray'}} to = {"/details/"+ id} >
-                    <div className = "img-part" >
-                        <img style = {{ width: '100px', height: 'auto' } }src = { img }alt = "img" />
+            <div className = "breakfast-item">
+                <Link style = {{ textDecoration: 'none', color: 'gray' } } to = { "/details/" + id } >
+                    <div className = "img-part">
+                        <img style = {{ width: '100px', height: 'auto' } } src = { img }alt = "img" />
                     </div> 
-                    <div className = "text-part" >
+                    <div className = "text-part">
                         <h5 style = {{ margin: '0px', fontWeight: '500', fontSize: '14px' } } > { foodName } </h5> 
                         <p style = {{ margin: '0px', fontSize: '13px' } } > { description } </p> 
                         <h5 style = {{ margin: '0px', fontWeight: '500', fontSize: '14px' } } > $ { price } </h5> 
@@ -22,4 +21,4 @@ const BreakfastFood = (props) => {
     );
 };
 
-export default BreakfastFood;
+export default LunchFood;

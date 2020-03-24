@@ -4,10 +4,11 @@ var dinner = [{
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "img": "https://drive.google.com/open?id=1HA59ptPQ_XmrdY737oMxq6-1TuT1ZJqI",
+        "img": "https://github.com/syfulislam763/hot-onion-restaurent/blob/master/src/Dinner/dinner1.png?raw=true",
         "foodName": "Salmon with grapefruit and lentil salad",
         "description": "How we dream about our future",
-        "price": 6.99
+        "price": 6.99,
+        "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame"
     },
     {
         "id": 14,
@@ -15,10 +16,11 @@ var dinner = [{
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "img": "https://drive.google.com/open?id=1XAgAeXgH3YC7Bxko1prFjRpU38xaO3A4",
+        "img": "https://github.com/syfulislam763/hot-onion-restaurent/blob/master/src/Dinner/dinner2.png?raw=true",
         "foodName": "Lemony salmon piccata",
         "description": "How we dream about our future",
-        "price": 9.99
+        "price": 9.99,
+        "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame"
     },
     {
         "id": 15,
@@ -26,10 +28,11 @@ var dinner = [{
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "img": "https://drive.google.com/open?id=1_ij8dTeHnD9dczHk8e3l4bF7q0DFDkYV",
+        "img": "https://github.com/syfulislam763/hot-onion-restaurent/blob/master/src/Dinner/dinner3.png?raw=true",
         "foodName": "Pork tenderloin with Quinoa pilaf",
         "description": "How we dream about our future",
-        "price": 8.99
+        "price": 8.99,
+        "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame"
     },
     {
         "id": 16,
@@ -37,10 +40,11 @@ var dinner = [{
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "img": "https://drive.google.com/open?id=1JSXkPvQBNs_vFkJFWytNFr5CocNwrQX8",
+        "img": "https://github.com/syfulislam763/hot-onion-restaurent/blob/master/src/Dinner/dinner4.png?raw=true",
         "foodName": "French fries with cheese",
         "description": "How we dream about our future",
-        "price": 19.99
+        "price": 19.99,
+        "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame"
     },
     {
         "id": 17,
@@ -48,10 +52,11 @@ var dinner = [{
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "img": "https://drive.google.com/open?id=1u998Yr3LNrMC2-VJpanbuOHjuiSHre4c",
+        "img": "https://github.com/syfulislam763/hot-onion-restaurent/blob/master/src/Dinner/dinner5.png?raw=true",
         "foodName": "Garlic butter baket salmon",
         "description": "How we dream about our future",
-        "price": 3.99
+        "price": 3.99,
+        "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame"
     },
     {
         "id": 18,
@@ -59,10 +64,11 @@ var dinner = [{
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "img": "https://drive.google.com/open?id=1nfmEpfAF8oblVCxTa-IS6PRlz1W1qsar",
+        "img": "https://github.com/syfulislam763/hot-onion-restaurent/blob/master/src/Dinner/dinner6.png?raw=true",
         "foodName": "Baked chiken",
         "description": "How we dream about our future",
-        "price": 10.99
+        "price": 10.99,
+        "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame"
     }
 ];
 
